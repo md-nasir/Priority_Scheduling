@@ -1,0 +1,14 @@
+.wraper{
+	width: 600px;
+	margin:0 auto;
+	background: #eee;
+	padding: 10px;
+	border-radius: 5px;
+}
+h3{
+	background: #c4c4c4;
+	padding:3px;
+}
+.error{
+	color:red;
+}
